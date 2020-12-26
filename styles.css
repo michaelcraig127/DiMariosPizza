@@ -221,9 +221,9 @@ input[type=submit]:hover {
 
 
 .side2 {
-  flex: 50%; /* Set the width of the sidebar */
-  background-color: #f1f1f1; /* Grey background color */
-  padding: 20px; /* Some padding */
+  flex: 50%; 
+  background-color: #f1f1f1; 
+  padding: 20px;
   height: auto;
   text-align: left;
 }
@@ -233,9 +233,9 @@ input[type=submit]:hover {
 }
 
 .main2 {
-  flex: 50%; /* Set the width of the main content */
-  background-color: white; /* White background color */
-  padding: 20px; /* Some padding */
+  flex: 50%; 
+  background-color: white;
+  padding: 20px; 
   height: auto;
   text-align: left;
 }
@@ -280,6 +280,10 @@ input[type=submit]:hover {
     width: 100%;
     margin-top: 0;
   }
+  .centered {
+    height: auto;
+    width: 100%
+  
 }
 
 
